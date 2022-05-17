@@ -1,1 +1,2 @@
-# algorithmic-transparency-standard
+# Algorithmic transparency standard
+
