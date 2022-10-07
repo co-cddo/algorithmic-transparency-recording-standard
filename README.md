@@ -6,6 +6,6 @@ The ATS was developed to help public sector organisations provide clear informat
 
 The first version (v1.1) of the ATS was [published on gov.uk](https://www.gov.uk/government/collections/algorithmic-transparency-standard) in November 2021. After an extensive phase of piloting the Standard with public sector teams and collecting feedback, we have updated the Standard and developed accompanying guidance that is intended to help teams fill out transparency reports for their tools. 
 
-The current version of the ATS published here on GitHub is v1.2. Additionally, this repository contains a change log of the changes made to the standard, a guidance document, and a maintenance plan for the standard. 
+The current version of the ATS published here on GitHub is v1.2. Additionally, this repository contains a change log of the changes made to the standard, and a guidance document. 
 
 We are seeking renewed feedback on the updated Algorithmic Transparency Standard and accompanying guidance. Everyone is invited to give feedback on the updates through creating a new ‘Issue’. We will then review and evaluate new feedback before publishing the updated version of the Standard (v2.1) on gov.uk. 
