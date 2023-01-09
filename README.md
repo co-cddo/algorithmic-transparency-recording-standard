@@ -1,4 +1,4 @@
-# Algorithmic Transparency Recording Standard (ATS)
+# Algorithmic Transparency Recording Standard (ATRS)
 
 This repository contains all the work on the Algorithmic Transparency Recording Standard by the [Central Digital and Data Office (CDDO)](https://www.gov.uk/government/organisations/central-digital-and-data-office) and the [Centre for Data Ethics and Innovation (CDEI)](https://www.gov.uk/government/organisations/centre-for-data-ethics-and-innovation).
 
