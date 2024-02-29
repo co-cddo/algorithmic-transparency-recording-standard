@@ -1,6 +1,6 @@
 # Algorithmic Transparency Recording Standard (ATRS)
 
-This repository contains all the work on the Algorithmic Transparency Recording Standard by the [Central Digital and Data Office (CDDO)](https://www.gov.uk/government/organisations/central-digital-and-data-office) and the [Centre for Data Ethics and Innovation (CDEI)](https://www.gov.uk/government/organisations/centre-for-data-ethics-and-innovation).
+This repository contains all the work on the Algorithmic Transparency Recording Standard by the [Central Digital and Data Office (CDDO)](https://www.gov.uk/government/organisations/central-digital-and-data-office) and the [Responsible Technology Adoption Unit](https://www.gov.uk/government/organisations/centre-for-data-ethics-and-innovation) (formerly the CDEI) .
 
 The ATRS was developed to help public sector organisations provide clear information about the algorithmic tools they use in decision-making processes that affect members of the public, and explain why they’re using them. It enables public bodies to proactively publish this information in a standardised way on gov.uk and make it accessible to members of the public. The ATRS is a reporting standard that introduces a standardised way of presenting and communicating predominantly qualitative information about how technologies are being used in decision processes.
 
