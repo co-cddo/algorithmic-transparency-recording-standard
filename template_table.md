@@ -1,4 +1,4 @@
-# Algorithmic Transparency Standard
+# Algorithmic Transparency Recording Standard
 V3.0 (March 2024)
 
 ## Metadata and Title Information
