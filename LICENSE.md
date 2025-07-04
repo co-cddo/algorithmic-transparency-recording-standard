@@ -1,4 +1,4 @@
-# Open Government Licence v3
+# Open Government Licence v4
 
 You are encouraged to use and re-use the Information that is available under this licence freely and flexibly, with only a few conditions.
 
@@ -22,7 +22,7 @@ This licence does not affect your freedom under fair dealing or fair use or any 
 
 If the Information Provider does not provide a specific attribution statement, you must use the following:
 
-* Contains public sector information licensed under the Open Government Licence v3.0.
+* Contains public sector information licensed under the Open Government Licence v4.0.
 
 If you are using Information from several Information Providers and listing multiple attributions is not practical in your product or application, you may include a URI or hyperlink to a resource that contains the required attribution statements.
 
